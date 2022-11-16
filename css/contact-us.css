@@ -1,0 +1,324 @@
+:root {
+    --main-color-- : #232323;
+    --second-color : white;
+    --hover-color-- : black;
+    --dark-color-- : #e71d35;
+    --jewelry-color-- : #dbc6ba;
+    --font-for-jewelry--:'ABeeZee', sans-serif;;
+}
+
+::selection {
+    color: white;
+    background-color: black;
+}
+
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Yantramanav', sans-serif;
+    background-color: black;
+    color: var(--main-color--);
+    min-height: 800vh;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #474747;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--main-color);
+}
+
+p, ul, li, button, label {
+    list-style: none;
+    text-decoration: none;
+    color: #5c5c5c;
+    font-family: 'Yantramanav';
+
+}
+
+
+.container {
+    padding-left: 5em;
+    padding-right: 5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sticky {
+    position: fixed;
+    z-index: 9999999;
+}
+
+
+.sticky .up {
+    position: absolute;
+    top: 45em;
+    left: 80em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 1s;
+    cursor: pointer;
+    color: #e3e3e3b0;
+    background-color: var(--main-color--);
+    padding: 0.8em 0.2em;
+}
+
+.sticky .up:hover {
+    background-color: black;
+}
+
+.up.active {
+    top: 32em;
+}
+
+/* ************************** */
+
+
+.contact-us {
+
+}
+
+.contact-us .content {
+    background-color: #f0f0f0;
+    min-height: 135vh;
+    overflow: hidden;
+}
+
+.contact-us .image {
+    padding-top: 3em;
+    text-align: center;
+}
+
+.contact-us .box-holder {
+    display: flex;
+    padding-top: 3em;
+}
+
+.contact-us .box-holder .box-one {
+    position: relative;
+    width: 70%;
+}
+
+.contact-us .box-holder .box-one .text {
+}
+
+.contact-us .box-holder .box-one .text h1 {
+    position: absolute;
+    top: 4em;
+    margin: 0 0.4em;
+    width: 25%;
+    font-size: 2rem;
+}
+
+
+.contact-us .box-holder .box-one  img {
+    width: 70%;
+}
+
+.contact-us .box-holder .box-two {
+}
+
+
+.contact-us .box-holder .box-two .text {
+    margin-right: 1.5em;
+    text-align: center;
+    
+}
+
+.contact-us .box-holder .box-two h1 {
+
+}
+
+.contact-us .box-holder .box-two p {
+    font-size: 0.9rem;
+    margin-top: 1em;
+}
+
+.contact-us .box-holder .box-two .inputs {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.contact-us .box-holder .box-two input {
+    border: none;
+    border-bottom: 1px solid var(--main-color--);
+    margin: 1em 0;
+    padding: 0.2em 0;
+    background: none;
+    outline: none;
+    width: 70%;
+}
+
+
+.contact-us .box-holder .box-two i {
+    position: relative;
+    bottom: 32px;
+    left: 16.5em;
+    cursor: pointer;
+}
+
+.contact-us .box-holder .box-two .inputs:nth-child(3) {
+    margin-bottom: 2em;
+}
+
+.contact-us .box-holder .box-two textarea {
+    outline: none;
+    padding: 1em;
+    width: 70%;
+
+}
+
+
+.contact-us .box-holder .box-two textarea::placeholder,
+.contact-us .box-holder .box-two input::placeholder {
+    color: var(--main-color--);
+    opacity: 0.8;
+}
+
+
+
+
+.contact-us .box-holder .box-two .button {
+    position: relative;
+    margin-top: 2em;
+}
+
+.contact-us .box-holder .box-two .button button {
+    padding: 1em;
+    background-color: transparent;
+    color: var(--main-color--);
+    cursor: pointer;
+    transition: 500ms;
+    border: 1px solid var(--main-color--);
+    position: relative;
+    z-index: 2;
+}
+
+.contact-us .box-holder .box-two .button button:hover {
+    color: white;
+}
+
+.contact-us .box-holder .box-two .button button::before {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    background-color: var(--main-color--);
+    top: 0;
+    left: 0;
+    transition: 500ms;
+    z-index: -1;
+}
+
+.contact-us .box-holder .box-two .button button:hover::before {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

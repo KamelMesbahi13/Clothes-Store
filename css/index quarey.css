@@ -1,0 +1,1279 @@
+@media (max-width: 386px) {
+
+    .header {
+        height: 170vh;
+        background-image: url(../images/back\ num\ 2\ min.jpg);
+    }
+
+    .header .text {
+        text-align: inherit;
+    }
+
+    .header .text h1 {
+        width: 215px;
+    }
+
+    .header .text p {
+        width: 200px;
+        line-height: 1.6;
+    }
+
+    .header .image {
+        position: relative;
+        right: 20%;
+    }
+
+    .header .image img {
+        width: 70%;
+    }
+
+    .apear {
+        position: absolute;
+        right: -35px;
+    }
+
+    .nav .box-one {
+        width: 100%;
+        left: 48%;
+
+    }
+
+    .nav .nav-box .box-one .icon p {
+        font-size: 1rem;
+    }
+
+    .nav .box-one .icon i {
+        font-size: 1.5rem;
+    }
+
+    .nav .box-one .contact {
+        left: 2px;
+    }
+
+    .nav .box-one .contact .text-one p {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .contact .text-one .arrow h6 {
+        font-size: 0.67rem;
+    }
+
+    .nav .box-one .contact span {
+        display: none;
+    }
+
+    .nav .box-one .contact .text-two p {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .contact .text-two a {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .contact .icon-contact i {
+        font-size: 1rem;
+    }
+
+    .nav .box-two {
+        position: absolute;
+        left: 10%;
+    }
+
+
+    .nav .box-two .logo {
+        margin: 0;
+    }
+
+
+    .nav .box-two .logo img {
+        margin: 2em 0;
+        width: 45%;
+    }
+
+    .nav .box-two .nav-content li a {
+        font-size: 1rem;
+    }
+
+    .nav .box-two .nav-content {
+        padding: 2em 0;
+    }
+
+    .inter .text p {
+        width: 100%;
+        font-size: 0.77rem;
+    }
+
+    .inter .text h1 {
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (min-width: 387px) {
+    .header {
+        height: 190vh;
+        background-image: url(../images/back\ num\ 2\ mid.jpg);
+    }
+
+    .header .text {
+        text-align: inherit;
+    }
+
+    .header .text h1 {
+        width: 215px;
+    }
+
+    .header .text p {
+        width: 200px;
+        line-height: 1.6;
+    }
+
+    .header .image {
+        position: relative;
+        right: 15%;
+    }
+
+    .header .image img {
+        width: 70%;
+    }
+
+
+    .nav .box-one {
+        width: 85%;
+        left: 35%;
+
+    }
+
+    .nav .nav-box .box-one .icon p {
+        font-size: 1rem;
+    }
+
+    .nav .box-one .icon i {
+        font-size: 1.5rem;
+    }
+
+    .nav .box-one .contact .text-one p {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .contact .text-one .arrow h6 {
+        font-size: 0.67rem;
+    }
+
+    .nav .box-one .contact span {
+        display: none;
+    }
+
+    .nav .box-one .contact .text-two p {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .contact .text-two a {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .icon {
+        justify-content: center;
+    }
+
+    .nav .box-one .contact .icon-contact i {
+        font-size: 1rem;
+    }
+
+    .nav .box-two {
+        position: absolute;
+        left: 10%;
+    }
+
+    .nav .box-two .logo {
+        margin: 0;
+    }
+
+
+    .nav .box-two .logo img {
+        margin: 2em 0;
+        width: 60%;
+    }
+
+    .nav .box-two .nav-content li a {
+        font-size: 1rem;
+    }
+
+    .nav .box-two .nav-content {
+        padding: 2em 0;
+    }
+
+    .inter .text p {
+        width: 100%;
+        font-size: 0.77rem;
+    }
+}
+
+
+@media (min-width: 634px) {
+
+    .header {
+    height: 170vh;
+    background-image: url(../images/back\ num\ 2.jpg);
+
+    }
+
+    .header .text {
+        text-align: inherit;
+    }
+
+    .header .text h1 {
+        width: 70%;
+        margin: 0 auto 1.3em;
+    }
+
+    .header .text p {
+        line-height: 1.4;
+        width: 70%;
+        margin: 0 auto;
+    
+    }
+
+    .header .image {
+        right: 0;
+    }
+
+    .header .image img {
+        width: 100%;
+    }
+
+    
+    .nav .box-one {
+        width: 40%;
+        left: 15%;
+
+    }
+
+    .nav .nav-box .box-one .icon p {
+        font-size: 1.2rem;
+    }
+
+    .nav .box-one .icon i {
+        font-size: 1.7rem;
+    }
+
+    .nav .box-one .contact .text-one p {
+        font-size: 1rem;
+    }
+
+    .nav .box-one .contact .text-one .arrow h6 {
+        font-size: 0.8rem;
+    }
+
+    .nav .box-one .contact span {
+        display: none;
+    }
+
+    .nav .box-one .contact .text-two p {
+        font-size: 1rem;
+    }
+
+    .nav .box-one .contact .text-two a {
+        font-size: 1rem;
+    }
+
+    .nav .box-one .icon {
+        justify-content: center;
+    }
+
+    .nav .box-one .contact .icon-contact i {
+        font-size: 1.2rem;
+    }
+
+    .nav .box-two {
+        position: absolute;
+        left: 10%;
+    }
+
+    .nav .box-two .logo {
+        margin: 0;
+    } 
+
+
+    .nav .box-two .logo img {
+        width: 75%;
+        margin: 2em 0;
+    }
+
+    .nav .box-two .nav-content li a {
+        font-size: 1.2rem;
+    }
+
+    .nav .box-two .nav-content {
+        padding: 2em 0;
+    }
+
+    .nav .box-one .contact span {
+        display: block;
+    }
+
+    .inter .text p {
+        font-size: 0.9rem;
+        width: 65%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+}
+
+@media (min-width: 1000px) {
+    .header {
+        height: 140vh;
+    }
+}
+
+@media (max-width: 815px) {
+    
+    .inter-content {
+        background-image: url(../images/inter\ back\ mini.jpg);
+        padding-bottom: 3em;
+    }
+
+    .inter-content .box-holder .inter-text {
+        padding-top: 5em;
+        width: 100%;
+        position: relative;
+        right: 35px;
+    }
+
+    .inter-content .box-holder .inter-text h1 {
+        width: 215px;
+        margin: 0 0 1em 0;
+        font-size: 1.6rem;
+        line-height: 1.6;
+        position: inherit;
+    }
+
+    .inter-content .box-holder .inter-text h1::before  {
+        display: none;
+    }
+
+    .inter-content .box-holder .inter-text h4 {
+        width: 200px;
+        margin-bottom: 3em;
+    }
+
+    .inter-content .box-holder .inter-text p {
+        width: 250px;
+    }
+}
+
+
+@media (max-width: 375px) {
+    .best-selling .best-selling-text h1 {
+        font-size: 1.6rem;
+    }
+
+    .best-selling .best-selling-text h1::before {
+        width: 20%;
+        top: 115%;
+    }
+
+    .best-selling .best-selling-text p {
+        width: 100%;
+        font-size: 0.9rem;
+    }
+
+    .best-selling .box-holder .box {
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 4em;
+    }
+
+    .best-selling .box-holder .box .box-content {
+        margin: 0 1em;
+    }
+
+    .best-selling .box-holder .box .box-content img {
+        width: 90%;
+    }
+
+    .best-selling .box-holder .box .box-content .text h3 {
+        font-size: 0.9rem;
+    }
+
+    .best-selling .box-holder .box .box-content .price i,
+    .best-selling .box-holder .box .box-content .price span {
+        font-size: 0.8rem;
+    }
+
+    .best-selling .box-holder .box .box-content:nth-child(1):before,
+    .best-selling .box-holder .box .box-content:nth-child(2):before,
+    .best-selling .box-holder .box .box-content:nth-child(1):after {
+        content: none;
+    }
+
+    .best-selling .box-holder .box .box-content .button button {
+        padding: 0.4em;
+        font-size: 0.6rem;
+    }
+
+    .best-selling .box-holder .box .box-content .dis-text a {
+        font-size: 0.8rem;
+    }
+
+    .best-selling .box-holder .box .box-content .dis-text span {
+        margin: 0;
+        font-size: 1.4rem;
+    }
+
+    /* ********************************************* */
+
+    .our-products {
+
+    }
+
+
+    .our-products .our-products-content {
+
+    }
+
+    .our-products .our-products-content .text h1 {
+        font-size: 1.4rem;
+    }
+
+    .our-products .our-products-content .text h1::before {
+        width: 30%;
+    }
+
+    .our-products .our-products-content .text p {
+        width: 100%;
+        margin-top: 4em;
+        font-size: 0.9rem;
+    }
+
+    .our-products .our-products-imgs .box-holder {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 3em 0;
+    }
+
+    .our-products .our-products-imgs .box-holder img,
+    .our-products .our-products-imgs .box:nth-child(4) img {
+        width: 270px;
+    }
+
+    .our-products .our-products-imgs .box {
+        margin-top: 1.5em;
+    }
+
+    .our-products .our-products-imgs .box .text {
+        top: 74%;
+    }
+
+
+    /* ***************************************** */
+
+    .jewelry .text {
+        padding: 2em 0 4em 0;
+    }
+
+    .jewelry .jewelry-content {
+        overflow: visible;
+    }
+
+    .jewelry .text h1 {
+        font-size: 1.5rem;
+    }
+
+    .jewelry .text h1::before {
+        width: 20%;
+    }
+
+    .jewelry .text p {
+        width: 100%;
+    }
+
+    .jewelry .jewelry-content .box-holder .box h2 {
+        width: 130px;
+    }
+
+    .jewelry .jewelry-content .box-holder .box h2::before {
+        width: 25%;
+    }
+
+    .jewelry .jewelry-content .box-holder .box p {
+        width: 80%;
+    }
+
+    .jewelry .jewelry-content .box-holder {
+        flex-wrap: wrap-reverse;
+    }
+
+    .jewelry .jewelry-content .box-holder .image {
+        overflow: visible;
+    }
+
+    .jewelry .jewelry-content .box-holder .image img:nth-child(1) {
+        display: block;
+        border: 6px solid white;
+        margin-bottom: 3em;
+    }
+
+    .jewelry .jewelry-content .box-holder .image img:nth-child(2) {
+        display: none;
+    }
+
+
+    .jewelry .jewelry-content .box-holder .box p {
+        width: 100%;
+        padding: 0;
+    }
+
+    .jewelry .jewelry-content .box-holder .button {
+        justify-content: center;
+    }
+
+    .delivery .box-holder {
+        flex-direction: column;
+        gap: 0 3em;
+    }
+
+    .delivery .box-holder .box {
+        margin-bottom: 4em;
+    }
+
+    .delivery .box-holder .box h3 {
+        font-size: 1.2rem;
+    }
+
+    .delivery .box-holder .box p {
+        width: 100%;
+    }
+
+
+/* ********************************** */
+
+.instagram .box-holder {
+    flex-direction: column;
+}
+
+.instagram .box-holder .box {
+    margin: 0;
+}
+
+.instagram .box-holder .box h2 {
+    font-size: 1.4rem;
+}
+
+.instagram .box-holder .box h2::before {
+    width: 18%;
+    left: -20%;
+}
+
+.instagram .box-holder .images {
+    flex-direction: column;
+    margin-top: 3em;
+}
+
+.instagram .box-holder .images img {
+    width: 100%;
+    height: inherit;
+    margin-bottom: 1.5em;
+}
+
+
+
+/* ******************************* */
+
+
+.footer .box-holder {
+    display: block;
+    width: 100%;
+    
+}
+
+.footer p {
+    width: 110%;
+    margin-bottom: 5em;
+}
+
+.footer .box .text-one .list-one, 
+.footer .box .text-two .list-two {
+    display: grid;
+}
+
+.footer .box .text-one h3,
+.footer .box .text-two h3 {
+    position: relative;
+    left: 20px;
+}
+
+.footer .box .text-one h3::before,
+.footer .box .text-two h3::before  {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 1px;
+    background-color: white;
+    left: -12%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.footer .box .text-one .list-one li:nth-child(5) {
+    margin-bottom: 2.5em;
+}
+
+.footer .box .text-two .list-two li {
+    margin-bottom: 1.5em;
+}
+
+.footer .box .text-two h3 {
+    margin-top: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 376px) {
+
+    .best-selling .best-selling-text h1 {
+        font-size: 1.6rem;
+    }
+
+    .best-selling .best-selling-text h1::before {
+        width: 20%;
+        top: 115%;
+    }
+
+    .best-selling .best-selling-text p {
+        width: 100%;
+        font-size: 0.9rem;
+    }
+
+    .best-selling .box-holder .box {
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 4em;
+        gap: 0 2em;
+    }
+
+    .best-selling .box-holder .box .box-content {
+        margin: 0 1em;
+    }
+
+    .best-selling .box-holder .box .box-content img {
+        width: 90%;
+    }
+
+    .best-selling .box-holder .box .box-content .text h3 {
+        font-size: 1.1rem;
+    }
+
+    .best-selling .box-holder .box .box-content .price i,
+    .best-selling .box-holder .box .box-content .price span {
+        font-size: 0.8rem;
+    }
+
+    .best-selling .box-holder .box .box-content:nth-child(1):before,
+    .best-selling .box-holder .box .box-content:nth-child(2):before,
+    .best-selling .box-holder .box .box-content:nth-child(1):after {
+        content: none;
+    }
+
+    .best-selling .box-holder .box .box-content .button button {
+        padding: 0.4em;
+        font-size: 0.6rem;
+    }
+
+    .best-selling .box-holder .box .box-content .dis-text a {
+        font-size: 0.8rem;
+    }
+
+    .best-selling .box-holder .box .box-content .dis-text span {
+        margin: 0;
+        font-size: 1.4rem;
+    }
+
+    /* ********************************************** */
+
+    
+    
+    .our-products .our-products-content .text h1 {
+        font-size: 1.6rem;
+    }
+    
+    .our-products .our-products-content .text h1::before {
+        width: 30%;
+    }
+
+    .our-products .our-products-content .text p {
+        width: 100%;
+        margin-top: 4em;
+        font-size: 0.9rem;
+    }
+    
+    .our-products .our-products-imgs .box-holder {
+        display: grid;
+        grid-template-columns: repeat(2 , 1fr);
+        gap: 0.2em;
+    }
+
+    .our-products .our-products-imgs .box-holder .box {
+        margin: 1em 0.2em;
+    }
+
+
+    .our-products .our-products-imgs .box-holder img,
+    .our-products .our-products-imgs .box:nth-child(4) img {
+        width: 315px;
+    }
+
+    .our-products .our-products-imgs .box .text {
+        top: 70%;
+    }
+
+    /* ***************************************** */
+
+    .jewelry .text {
+        padding: 2em 0 4em 0;
+    }
+
+    .jewelry .jewelry-content {
+        overflow: visible;
+    }
+
+    .jewelry .text h1 {
+        font-size: 1.5rem;
+    }
+
+    .jewelry .text h1::before {
+        width: 20%;
+    }
+
+    .jewelry .text p {
+        width: 100%;
+    }
+
+    .jewelry .jewelry-content .box-holder .box h2 {
+        width: 130px;
+    }
+
+    .jewelry .jewelry-content .box-holder .box h2::before {
+        width: 25%;
+    }
+
+
+    .jewelry .jewelry-content .box-holder .box p {
+        width: 80%;
+    }
+
+    .jewelry .jewelry-content .box-holder {
+        flex-wrap: wrap-reverse;
+    }
+
+    .jewelry .jewelry-content .box-holder .image {
+        overflow: visible;
+    }
+
+    .jewelry .jewelry-content .box-holder .image img:nth-child(1) {
+        display: block;
+        border: 6px solid white;
+        margin-bottom: 3em;
+    }
+
+    .jewelry .jewelry-content .box-holder .image img:nth-child(2) {
+        display: none;
+    }
+
+
+    .jewelry .jewelry-content .box-holder .box p {
+        width: 100%;
+        padding: 0;
+    }
+
+    .jewelry .jewelry-content .box-holder .button {
+        justify-content: center;
+    }
+
+    /* ********************************************* */
+
+    .delivery .box-holder {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0 3em;
+    }
+
+    .delivery .box-holder .box {
+        margin-bottom: 4em;
+    }
+
+    .delivery .box-holder .box h3 {
+        font-size: 1.2rem;
+    }
+
+    .delivery .box-holder .box p {
+        width: 100%;
+    }
+
+
+/* **************************************** */
+
+
+    .instagram .box-holder {
+        flex-direction: column;
+    }
+    
+    .instagram .box-holder .box {
+        margin: 0;
+    }
+    
+    .instagram .box-holder .box h2 {
+        font-size: 1.4rem;
+    }
+    
+    .instagram .box-holder .box h2::before {
+        width: 18%;
+        left: -20%;
+    }
+    
+    .instagram .box-holder .images {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 3em;
+    }
+    
+    .instagram .box-holder .images img {
+        width: 150px;
+        height: 34vh;
+        margin-bottom: 1.5em;
+    }
+
+
+    .footer .box-holder {
+        display: block;
+        width: 100%;
+        
+    }
+    
+    .footer p {
+        width: 110%;
+        margin-bottom: 5em;
+    }
+    
+    .footer .box .text-one .list-one, 
+    .footer .box .text-two .list-two {
+        display: grid;
+    }
+    
+    .footer .box .text-one h3,
+    .footer .box .text-two h3 {
+        position: relative;
+        left: 20px;
+    }
+    
+    .footer .box .text-one h3::before,
+    .footer .box .text-two h3::before  {
+        content: "";
+        position: absolute;
+        width: 10%;
+        height: 1px;
+        background-color: white;
+        left: -12%;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    
+    
+    .footer .box .text-one .list-one li:nth-child(5) {
+        margin-bottom: 2.5em;
+    }
+    
+    .footer .box .text-two .list-two li {
+        margin-bottom: 1.5em;
+    }
+    
+    .footer .box .text-two h3 {
+        margin-top: 1.5em;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 666px) {
+    .our-products .our-products-imgs .box-holder .box {
+        margin: 1em 1.2em;
+    }
+
+    .our-products .our-products-imgs .box-holder img,
+    .our-products .our-products-imgs .box:nth-child(4) img {
+        width: 340px;
+    }
+
+    /* *********************************************** */
+
+
+    .jewelry .text {
+        padding: 6em;
+    }
+
+    .jewelry .text h1 {
+        margin-bottom: 1.5em;
+    }
+
+    .jewelry .text h1::before {
+        width: 10%;
+    }
+
+    .jewelry .text p {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .jewelry .jewelry-content {
+        overflow: hidden;
+    }
+
+    .jewelry .jewelry-content .box-holder {
+        flex-wrap: nowrap;
+    }
+
+
+    .jewelry .jewelry-content .box-holder .box h2 {
+        font-size: 1.2rem;
+    }
+
+    .jewelry .jewelry-content .box-holder .box p {
+    padding-right: 1em;
+    }
+
+
+    .jewelry .jewelry-content .box-holder .button {
+        justify-content: start;
+    }
+
+    .jewelry .jewelry-content .box-holder .image {
+        overflow: hidden;
+    }
+
+    .jewelry .jewelry-content .box-holder .image img:nth-child(1) {
+        display: none;
+    }
+    
+    .jewelry .jewelry-content .box-holder .image img:nth-child(2) {
+        display: block;
+    }
+    
+    .jewelry .jewelry-content .box-holder .image.active {
+        left: 0;
+    }
+    
+    .jewelry .jewelry-content .box-holder .image img {
+        width: 100%;
+        
+    }
+
+    /* ******************************** */
+    .delivery .box-holder {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .delivery .box-holder .box {
+        margin: 0;
+    }
+
+    .delivery .box-holder .box p {
+        width: 80%;
+    }
+
+/* ****************************************************** */
+
+.instagram .box-holder {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.instagram .box-holder .box {
+    margin-right: 4em;
+}
+
+.instagram .box-holder .box h2 {
+    font-size: 1.6rem;
+}
+
+.instagram .box-holder .box h2::before {
+    width: 25%;
+    left: -27%;
+
+}
+
+
+.instagram .box-holder .images {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 3em;
+}
+
+.instagram .box-holder .images img {
+    width: 180px;
+    height: 37vh;
+    margin-bottom: 1.5em;
+}
+
+/* *********************************** */
+
+.footer .box-holder {
+    display: flex;
+}
+
+.footer p {
+    width: 75%;
+    font-size: 0.9rem;
+}
+
+.footer .box .text-one {
+    margin-right: 4em;
+    margin-left: 4em;
+}
+
+
+.footer .box .text-two h3 {
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media (min-width: 768px) {
+
+    .best-selling .box-holder .box .box-content {
+        margin: 4em 1em;
+    }
+
+    .best-selling .best-selling-text p {
+        width: 50%;
+        font-size: 1rem;
+    }
+
+    .best-selling .best-selling-text h1 {
+        font-size: 2rem;
+    }
+
+    .best-selling .best-selling-text h1::before {
+        width: 5%;
+    }
+
+    .best-selling .box-holder .box {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .best-selling .box-holder .box .box-content .price i,
+    .best-selling .box-holder .box .box-content .price span {
+        font-size: 1rem;
+    }
+
+    .best-selling .box-holder .box .box-content .button button {
+        padding: 0.6em 0.4em;
+        font-size: 0.9rem;
+    }
+
+    .best-selling .box-holder .box .box-content .dis-text a {
+        font-size: 1rem;
+    }
+
+    .best-selling .box-holder .box .box-content .dis-text span {
+        font-size: 1.5rem;
+    }
+
+
+/* ****************************************** */
+
+
+.our-products .our-products-content .text h1 {
+    font-size: 2rem;
+}
+
+.our-products .our-products-content .text h1::before {
+    width: 10%;
+}
+
+.our-products .our-products-content .text p {
+    width: 50%;
+    /* font-size: 0.9rem; */
+}
+
+    .our-products .our-products-imgs .box-holder {
+        display: flex;
+    }
+
+    .our-products .our-products-imgs .box-holder .box {
+        margin: 0;
+    }
+
+    .our-products .our-products-imgs .box-holder img,
+    .our-products .our-products-imgs .box:nth-child(4) img {
+        width: 335px;
+        height: 75vh;    }
+
+    .our-products .our-products-imgs .box .text {
+        top: 73%;
+    }
+
+
+
+
+
+
+}
+
+@media (min-width: 1054px) {
+    .instagram .box-holder .images {
+        display: flex;
+    }
+
+    .instagram .box-holder .images img {
+        width: 25%;
+        height: 65vh;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
